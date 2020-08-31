@@ -1,0 +1,9 @@
+.vs/
+data/
+Debug/
+x64/
+
+Crimsonland.*
+Framework.*
+*.dll
+*.txt
